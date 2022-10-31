@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eden342002
-- 👀 I’m into cloud computing
-- 🌱 I'm passionate cloud computing
-- 💞️ I’m looking to collaborate on anything involving cloud computing
+- 👀 I’m into cloud computing.
+- 🌱 I'm passionate about cloud computing and any related technology.
+- 💞️ I’m looking to collaborate on anything involving cloud computing and related technology.
 - 📫 How to reach me eden342002@gmail.com
 
 <!---
